@@ -1,2 +1,12 @@
-# chimney-solutions-plano
-Chimney Cleaning Services Plano | Chimney Solutions Plano provides professional chimney inspection and cleaning services. https://chimneysolutionsplano.com
+# Chimney Cleaning Services Plano
+
+Chimney Solutions Plano provides professional chimney cleaning, inspection, and repair services in Plano, Texas. 
+
+## Services
+- Chimney Cleaning
+- Chimney Inspection
+- Fireplace Repair
+- Creosote Removal
+- Chimney Maintenance
+
+Learn more: [https://chimneysolutionsplano.com](https://chimneysolutionsplano.com)
